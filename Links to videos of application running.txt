@@ -1,0 +1,5 @@
+Sequential - 500 bodies
+https://www.youtube.com/watch?v=klao6dP3IQ4
+
+OpenMP - 1024 bodies
+https://www.youtube.com/watch?v=FOKRfMQVf-s
